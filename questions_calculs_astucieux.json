@@ -1,0 +1,94 @@
+[
+    {
+        "enonce": "15,6 + 3,4 = ...",
+        "reponses": [
+            {"valide": true, "texte": "19"},
+            {"valide": false, "texte": "18"},
+            {"valide": false, "texte": "19,10"},
+            {"valide": false, "texte": "18,10"}
+        ]
+    },
+        {
+        "enonce": "9,9 + 5,1 = ...",
+        "reponses": [
+            {"valide": false, "texte": "14,91"},
+            {"valide": true, "texte": "15"},
+            {"valide": false, "texte": "14,10"},
+            {"valide": false, "texte": "14"}
+        ]
+    },
+    {
+        "enonce": "Parmi les calculs suivants, lesquels donnent des valeurs sans décimale ?",
+        "reponses": [
+            {"valide": true, "texte": "174,5 + 98,5"},
+            {"valide": false, "texte": "149,6 + 84,9"},
+            {"valide": true, "texte": "32,7 + 40,3"},
+            {"valide": false, "texte": "122,2 + 88"}
+        ]
+    },
+    {
+        "enonce": "Parmi les calculs suivants, lesquels donnent des valeurs sans décimale ?",
+        "reponses": [
+            {"valide": false, "texte": "30,8 + 38,5"},
+            {"valide": false, "texte": "55 + 5,5"},
+            {"valide": true, "texte": "14,9 + 1,1"},
+            {"valide": true, "texte": "26,4 + 16,6"}
+        ]
+    },
+    {
+        "enonce": "15,5 + 12,5 = ...",
+        "reponses": [
+            {"valide": false, "texte": "27"},
+            {"valide": true, "texte": "28"},
+            {"valide": false, "texte": "29"},
+            {"valide": false, "texte": "27,5"}
+        ]
+    },
+    {
+        "enonce": "2,1 + 7,9 = ...",
+        "reponses": [
+            {"valide": false, "texte": "9"},
+            {"valide": true, "texte": "10"},
+            {"valide": false, "texte": "11"},
+            {"valide": false, "texte": "9,10"}
+        ]
+    },
+    {
+        "enonce": "8,5 + 5,5 = ...",
+        "reponses": [
+            {"valide": false, "texte": "12"},
+            {"valide": false, "texte": "13"},
+            {"valide": true, "texte": "14"},
+            {"valide": false, "texte": "15"}
+        ]
+    },
+    {
+        "enonce": "7,3 + 3,7 = ...",
+        "reponses": [
+            {"valide": false, "texte": "9"},
+            {"valide": false, "texte": "10"},
+            {"valide": true, "texte": "11"},
+            {"valide": false, "texte": "12"}
+        ]
+    },
+    {
+        "enonce": "2,25 + 2,75 = ...",
+        "reponses": [
+            {"valide": false, "texte": "4,95"},
+            {"valide": true, "texte": "5"},
+            {"valide": false, "texte": "4,5"},
+            {"valide": false, "texte": "4"},
+            {"valide": false, "texte": "4,9"}
+        ]
+    },
+    {
+        "enonce": "1,10 + 2,90 = ...",
+        "reponses": [
+            {"valide": false, "texte": "3,100"},
+            {"valide": false, "texte": "3,90"},
+            {"valide": true, "texte": "4"},
+            {"valide": false, "texte": "3"},
+            {"valide": false, "texte": "5"}
+        ]
+    }
+]

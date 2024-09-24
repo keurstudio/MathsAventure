@@ -1,0 +1,85 @@
+[
+    {
+        "enonce": "1 cm = ...",
+        "reponses": [
+            {"valide": true, "texte": "10 mm"},
+            {"valide": false, "texte": "100 mm"},
+            {"valide": false, "texte": "1000 mm"}
+        ]
+    },
+    {
+        "enonce": "1 kg = ...",
+        "reponses": [
+            {"valide": false, "texte": "10 g"},
+            {"valide": false, "texte": "100 g"},
+            {"valide": true, "texte": "1000 g"}
+        ]
+    },
+    {
+        "enonce": "1 dm = ...",
+        "reponses": [
+            {"valide": false, "texte": "10 mm"},
+            {"valide": true, "texte": "100 mm"},
+            {"valide": false, "texte": "1000 mm"}
+        ]
+    },
+    {
+        "enonce": "1 cg = ...",
+        "reponses": [
+            {"valide": true, "texte": "10 mg"},
+            {"valide": false, "texte": "100 mg"},
+            {"valide": false, "texte": "1000 mg"}
+        ]
+    },
+    {
+        "enonce": "1 hm = ...",
+        "reponses": [
+            {"valide": false, "texte": "10 m"},
+            {"valide": true, "texte": "100 m"},
+            {"valide": false, "texte": "1000 m"}
+        ]
+    },
+    {
+        "enonce": "1 decm = ...",
+        "reponses": [
+            {"valide": true, "texte": "10 m"},
+            {"valide": false, "texte": "100 m"},
+            {"valide": false, "texte": "1000 m"}
+        ]
+    },
+    {
+        "enonce": "1 cm = ...",
+        "reponses": [
+            {"valide": true, "texte": "0,01 m"},
+            {"valide": false, "texte": "0,1 m"},
+            {"valide": false, "texte": "10 m"}
+        ]
+    },
+    {
+        "enonce": "1 g = ...",
+        "reponses": [
+            {"valide": false, "texte": "0,1 kg"},
+            {"valide": false, "texte": "1000 kg"},
+            {"valide": false, "texte": "0,01 kg"},
+            {"valide": true, "texte": "0,001 kg"}
+        ]
+    },
+    {
+        "enonce": "1 mL = ...",
+        "reponses": [
+            {"valide": false, "texte": "0,1 L"},
+            {"valide": false, "texte": "0,01 L"},
+            {"valide": true, "texte": "0,001 L"}
+        ]
+    },
+    {
+        "enonce": "1 cm = ...",
+        "reponses": [
+            {"valide": false, "texte": "0,1 hm"},
+            {"valide": false, "texte": "0,01 hm"},
+            {"valide": false, "texte": "0,001 hm"},
+            {"valide": true, "texte": "0,0001 hm"},
+            {"valide": false, "texte": "0,00001 hm"}
+        ]
+    }
+]

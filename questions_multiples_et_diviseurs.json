@@ -1,0 +1,89 @@
+[
+    {
+        "enonce": "372 est multiple de 3 : vrai ou faux ?",
+        "reponses": [
+            {"valide": true, "texte": "Vrai"},
+            {"valide": false, "texte": "Faux"}
+        ]
+    },
+    {
+        "enonce": "973 est un nombre pair : vrai ou faux ?",
+        "reponses": [
+            {"valide": false, "texte": "Vrai"},
+            {"valide": true, "texte": "Faux"}
+        ]
+    },
+    {
+        "enonce": "Parmi les nombres suivants, lesquels sont des diviseurs de 35 ?",
+        "reponses": [
+            {"valide": true, "texte": "1"},
+            {"valide": false, "texte": "2"},
+            {"valide": false, "texte": "3"},
+            {"valide": true, "texte": "5"},
+            {"valide": true, "texte": "7"},
+            {"valide": true, "texte": "35"}
+        ]
+    },
+    {
+        "enonce": "68 est un multiple de 4 : vrai ou faux ?",
+        "reponses": [
+            {"valide": true, "texte": "Vrai"},
+            {"valide": false, "texte": "Faux"}
+        ]
+    },
+    {
+        "enonce": "Par quels chiffres peut se terminer un multiple de 5 ?",
+        "reponses": [
+            {"valide": true, "texte": "0"},
+            {"valide": false, "texte": "1"},
+            {"valide": false, "texte": "2"},
+            {"valide": false, "texte": "3"},
+            {"valide": false, "texte": "4"},
+            {"valide": true, "texte": "5"},
+            {"valide": false, "texte": "6"},
+            {"valide": false, "texte": "7"},
+            {"valide": false, "texte": "8"},
+            {"valide": false, "texte": "9"}
+        ]
+    },
+    {
+        "enonce": "Par quels chiffres peut se terminer un nombre impair ?",
+        "reponses": [
+            {"valide": false, "texte": "0"},
+            {"valide": true, "texte": "1"},
+            {"valide": false, "texte": "2"},
+            {"valide": true, "texte": "3"},
+            {"valide": false, "texte": "4"},
+            {"valide": true, "texte": "5"},
+            {"valide": false, "texte": "6"},
+            {"valide": true, "texte": "7"},
+            {"valide": false, "texte": "8"},
+            {"valide": true, "texte": "9"}
+        ]
+    },
+    {
+        "enonce": "777 est un multiple de 7 : vrai ou faux ?",
+        "reponses": [
+            {"valide": true, "texte": "Vrai"},
+            {"valide": false, "texte": "Faux"}
+        ]
+    },
+    {
+        "enonce": "Parmi les nombres suivants, lesquels sont des diviseurs de 54 ?",
+        "reponses": [
+            {"valide": true, "texte": "1"},
+            {"valide": true, "texte": "2"},
+            {"valide": true, "texte": "3"},
+            {"valide": false, "texte": "4"},
+            {"valide": false, "texte": "5"},
+            {"valide": false, "texte": "7"}
+        ]
+    },
+    {
+        "enonce": "274 885 est un multiple de 10 : vrai ou faux ?",
+        "reponses": [
+            {"valide": false, "texte": "Vrai"},
+            {"valide": true, "texte": "Faux"}
+        ]
+    }
+]

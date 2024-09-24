@@ -1,0 +1,82 @@
+[
+    {
+        "enonce": "Compléter les pointillés avec le bon symbole : 13,1 ... 13,02",
+        "reponses": [
+            {"valide": false, "texte": "<"},
+            {"valide": false, "texte": "="},
+            {"valide": true, "texte": ">"}
+        ]
+    },
+    {
+        "enonce": "Compléter les pointillés avec le bon symbole : 76,6 ... 76,600",
+        "reponses": [
+            {"valide": false, "texte": "<"},
+            {"valide": true, "texte": "="},
+            {"valide": false, "texte": ">"}
+        ]
+    },
+    {
+        "enonce": "Compléter les pointillés avec le bon symbole : 101,0 ... 100,1",
+        "reponses": [
+            {"valide": false, "texte": "<"},
+            {"valide": false, "texte": "="},
+            {"valide": true, "texte": ">"}
+        ]
+    },
+    {
+        "enonce": "Compléter les pointillés avec le bon symbole : 59,832 ... 59,84",
+        "reponses": [
+            {"valide": true, "texte": "<"},
+            {"valide": false, "texte": "="},
+            {"valide": false, "texte": ">"}
+        ]
+    },
+    {
+        "enonce": "Compléter les pointillés avec le bon symbole : 44,05 ... 44,006",
+        "reponses": [
+            {"valide": false, "texte": "<"},
+            {"valide": false, "texte": "="},
+            {"valide": true, "texte": ">"}
+        ]
+    },
+    {
+        "enonce": "Compléter les pointillés avec le bon symbole : 27,012 ... 27,02",
+        "reponses": [
+            {"valide": true, "texte": "<"},
+            {"valide": false, "texte": "="},
+            {"valide": false, "texte": ">"}
+        ]
+    },
+    {
+        "enonce": "Compléter les pointillés avec le bon symbole : 65,59 ... 66,05",
+        "reponses": [
+            {"valide": true, "texte": "<"},
+            {"valide": false, "texte": "="},
+            {"valide": false, "texte": ">"}
+        ]
+    },
+    {
+        "enonce": "Compléter les pointillés avec le bon symbole : 52,15 ... 103,14",
+        "reponses": [
+            {"valide": true, "texte": "<"},
+            {"valide": false, "texte": "="},
+            {"valide": false, "texte": ">"}
+        ]
+    },
+    {
+        "enonce": "Compléter les pointillés avec le bon symbole : 13 385 ... 12 799",
+        "reponses": [
+            {"valide": false, "texte": "<"},
+            {"valide": false, "texte": "="},
+            {"valide": true, "texte": ">"}
+        ]
+    },
+    {
+        "enonce": "Compléter les pointillés avec le bon symbole : 177,0 ... 177,00",
+        "reponses": [
+            {"valide": false, "texte": "<"},
+            {"valide": true, "texte": "="},
+            {"valide": false, "texte": ">"}
+        ]
+    }
+]
