@@ -85,5 +85,30 @@
             {"valide": false, "texte": "Vrai"},
             {"valide": true, "texte": "Faux"}
         ]
+    },
+    {
+        "enonce": "Parmi les nombres suivants, lesquels sont des diviseurs de 25 ?",
+        "reponses": [
+            {"valide": true, "texte": "1"},
+            {"valide": false, "texte": "2"},
+            {"valide": false, "texte": "3"},
+            {"valide": false, "texte": "4"},
+            {"valide": true, "texte": "5"},
+            {"valide": true, "texte": "25"}
+        ]
+    },
+    {
+        "enonce": "78 est multiple de 3 : vrai ou faux ?",
+        "reponses": [
+            {"valide": true, "texte": "Vrai"},
+            {"valide": false, "texte": "Faux"}
+        ]
+    },
+    {
+        "enonce": "121 est multiple de 3 : vrai ou faux ?",
+        "reponses": [
+            {"valide": false, "texte": "Vrai"},
+            {"valide": true, "texte": "Faux"}
+        ]
     }
 ]

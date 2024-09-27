@@ -1,6 +1,7 @@
 [
     {
         "enonce": "Mes diagonales sont de même longueur et se coupent en leur milieu : qui suis-je ? (Plusieurs bonnes réponses possibles)",
+        "temps": 60,
         "reponses": [
             {"valide": true, "texte": "Un carré"},
             {"valide": true, "texte": "Un rectangle"},
@@ -11,6 +12,7 @@
     },
     {
         "enonce": "Mes côtés sont parallèles deux à deux et mes diagonales ne sont pas de même longueur : qui suis-je ? (Plusieurs bonnes réponses possibles)",
+        "temps": 60,
         "reponses": [
             {"valide": false, "texte": "Un rectangle"},
             {"valide": false, "texte": "Un carré"},
@@ -21,6 +23,7 @@
     },
     {
         "enonce": "Mes côtés sont parallèles deux à deux : qui suis-je ? (Plusieurs bonnes réponses possibles)",
+        "temps": 60,
         "reponses": [
             {"valide": true, "texte": "Un rectangle"},
             {"valide": true, "texte": "Un carré"},
@@ -31,6 +34,7 @@
     },
     {
         "enonce": "Mes diagonales se coupent perpendiculairement : qui suis-je ? (Plusieurs bonnes réponses possibles)",
+        "temps": 60,
         "reponses": [
             {"valide": false, "texte": "Un rectangle"},
             {"valide": true, "texte": "Un carré"},
@@ -40,6 +44,7 @@
     },
     {
         "enonce": "Mes diagonales ne sont pas de même longueur : qui suis-je ? (Plusieurs bonnes réponses possibles)",
+        "temps": 60,
         "reponses": [
             {"valide": false, "texte": "Un rectangle"},
             {"valide": false, "texte": "Un carré"},
@@ -50,6 +55,7 @@
     },
     {
         "enonce": "Mes diagonales se coupent en leur milieu : qui suis-je ? (Plusieurs bonnes réponses possibles)",
+        "temps": 60,
         "reponses": [
             {"valide": true, "texte": "Un rectangle"},
             {"valide": true, "texte": "Un carré"},
@@ -60,6 +66,7 @@
     },
     {
         "enonce": "Mes diagonales ne sont pas de même longueur et se coupent perpendiculairement en leur milieu : qui suis-je ? (Plusieurs bonnes réponses possibles)",
+        "temps": 60,
         "reponses": [
             {"valide": false, "texte": "Un rectangle"},
             {"valide": false, "texte": "Un carré"},
@@ -70,6 +77,7 @@
     },
     {
         "enonce": "J'ai 4 angles droits et mes diagonales se coupent perpendiculairement : qui suis-je ? (Plusieurs bonnes réponses possibles)",
+        "temps": 60,
         "reponses": [
             {"valide": false, "texte": "Un rectangle"},
             {"valide": true, "texte": "Un carré"},
@@ -80,6 +88,7 @@
     },
     {
         "enonce": "J'ai 4 angles droits et mes diagonales se coupent en leur milieu : qui suis-je ? (Plusieurs bonnes réponses possibles)",
+        "temps": 60,
         "reponses": [
             {"valide": true, "texte": "Un rectangle"},
             {"valide": true, "texte": "Un carré"},
@@ -90,6 +99,7 @@
     },
     {
         "enonce": "Mes 4 côtés sont de même longueur : qui suis-je ? (Plusieurs bonnes réponses possibles)",
+        "temps": 60,
         "reponses": [
             {"valide": false, "texte": "Un rectangle"},
             {"valide": true, "texte": "Un carré"},
