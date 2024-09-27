@@ -17,7 +17,7 @@
             {"valide": false, "texte": "Un rectangle"},
             {"valide": false, "texte": "Un carré"},
             {"valide": true, "texte": "Un parallélogramme"},
-            {"valide": false, "texte": "Un losange"},
+            {"valide": true, "texte": "Un losange"},
             {"valide": false, "texte": "Un trapèze"}
         ]
     },
